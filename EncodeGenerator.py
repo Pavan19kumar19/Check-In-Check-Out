@@ -7,10 +7,10 @@ from firebase_admin import credentials
 from firebase_admin import db
 from firebase_admin import storage
 cred = credentials.Certificate("serviceAccountKey.json")
-firebase_admin.initialize_app(cred,{
-    'databaseURL' : "https://check-in-check-out-a0fbc-default-rtdb.firebaseio.com/",
-    'storageBucket':"check-in-check-out-a0fbc.appspot.com"
-})
+# firebase_admin.initialize_app(cred,{
+#     'databaseURL' : "firebase database url",
+#     'storageBucket':"firebase storage url"
+# })
 
 
 #importing the student Images
