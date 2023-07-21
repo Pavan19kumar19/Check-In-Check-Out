@@ -10,13 +10,13 @@ from firebase_admin import db
 from firebase_admin import storage
 from datetime import datetime
 import requests
-apiSecret ="ae0bfc03972ab23bc363d5f0537ed71dcb6fb1fe"
-deviceId = "00000000-0000-0000-67fa-04c5ab830c8f"
-cred = credentials.Certificate("serviceAccountKey.json")
-firebase_admin.initialize_app(cred,{
-    'databaseURL' : "https://check-in-check-out-a0fbc-default-rtdb.firebaseio.com/",
-    'storageBucket':"check-in-check-out-a0fbc.appspot.com"
-})
+apiSecret ="#API KEY"
+deviceId = "Device Id"
+# cred = credentials.Certificate("serviceAccountKey.json")
+# firebase_admin.initialize_app(cred,{
+#     'databaseURL' : "url of firebase project",
+#     'storageBucket':"database url"
+# })
 bucket = storage.bucket()
 
 cap = cv2.VideoCapture(0)
