@@ -10,7 +10,7 @@ Sample Snapshots :
 
 It was Done in Pycharm community so need to  install Pycharm.
 
-Step 1 : Open terminal and enter " git   "
+Step 1 : Open terminal and enter " git clone https://github.com/Pavan19kumar19/Check-In-Check-Out.git  "
 
 Step 2 : unzip Check in Check Out folder
 
