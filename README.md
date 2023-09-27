@@ -1,4 +1,4 @@
-# Check-In-Check-Out
+# Check-In-Check-Out-System(using Face-Recognition)
 
 The Purpose of the Check In Check Out System application is used to know the currentstatus of the student whether he/she present inside of the campus or outside of the campus.
 
@@ -12,8 +12,10 @@ A message will be sent to registered mobile number (We use Parent mobile number 
 status of presence/absence of the student.
   
 # Snapshots of Check In Check Out System:
-    ![IMG_20230721_201323](https://github.com/Pavan19kumar19/Check-In-Check-Out/assets/64640403/eb955eb4-d351-4051-9cc5-7a81b6478b9c)
-![Screenshot from 2023-07-15 10-49-29](https://github.com/Pavan19kumar19/Check-In-Check-Out/assets/64640403/810dc0b2-7227-4c08-b419-4383a290f54a)
+
+<img width="960" alt="Screenshot 2023-08-09 171403" src="https://github.com/Pavan19kumar19/Check-In-Check-Out/assets/64640403/0353f986-7a08-409a-bca5-8d03d3d92a22">
+<img width="960" alt="Screenshot 2023-08-10 110327" src="https://github.com/Pavan19kumar19/Check-In-Check-Out/assets/64640403/6ee0f35a-13c0-4d66-9ae5-ad3177f4f667">
+<img width="960" alt="Screenshot 2023-09-27 122654" src="https://github.com/Pavan19kumar19/Check-In-Check-Out/assets/64640403/123aa1b6-1eb3-4e9c-8de5-b5a252760ead">
 
 
 It was done in Pycharm community. Need to use Pycharm .
@@ -43,6 +45,10 @@ Step 6 :
         • Replace #firebase and #storage with above urls respectively and uncomment in these three files           main.py,AddDataToDatabase.py,EncodeGenerator.py 
         
   ![Screenshot from 2023-07-21 19-50-04](https://github.com/Pavan19kumar19/Check-In-Check-Out/assets/64640403/e1c86e83-64e8-451b-b156-e26bb09dadd1)
+  
+                In the Real time Database data format in FIREBASE.
+  <img width="960" alt="Screenshot 2023-08-09 120539" src="https://github.com/Pavan19kumar19/Check-In-Check-Out/assets/64640403/3fd7a188-74a7-4684-a11a-af52fe4f9830">
+
 
 Step 7:
       In order to send sms alert to registered mobile, here I have linked my mobile with SMSCHEF website.
@@ -63,15 +69,23 @@ Step 7:
             • Run AddDataToDatabase.py file to add students details.
             • Then run EncodeGenerator.py to encode images and upload images to firebase storage.
             • Finally run main.py file to get software application.
+<img width="960" alt="Screenshot 2023-08-09 114724" src="https://github.com/Pavan19kumar19/Check-In-Check-Out/assets/64640403/c16cd372-51ea-48f7-a62a-f610d8d52690">
+<img width="960" alt="Screenshot 2023-09-27 123655" src="https://github.com/Pavan19kumar19/Check-In-Check-Out/assets/64640403/1e92fb5e-a9f8-44f5-818d-146070d0a000">
 
-   ![Screenshot from 2023-07-15 10-48-23](https://github.com/Pavan19kumar19/Check-In-Check-Out/assets/64640403/accb7adc-5163-46ec-ab52-83778031c4ce)
 
-  ![Screenshot from 2023-07-15 10-49-29](https://github.com/Pavan19kumar19/Check-In-Check-Out/assets/64640403/f04c442d-ef8d-4838-8f54-db475cd944cd)
-      
-![Screenshot from 2023-07-16 22-16-34](https://github.com/Pavan19kumar19/Check-In-Check-Out/assets/64640403/e2fb2e34-a2e5-4ca8-9f9b-a209baa61a88)
+                                             Checking Individual student Status.
 
-![Screenshot from 2023-07-15 10-50-52](https://github.com/Pavan19kumar19/Check-In-Check-Out/assets/64640403/0c2d7e34-9aee-454e-9182-fa16c0d25c2d)
-
+   
 
                       #Hurry !!!!!!!!!!!......... Project Done .
+
+
+
+Project Done by
+
+    Ediga Pavan Kumar
+    
+      9581494014
+      
+LinkedIn Profile: https://www.linkedin.com/in/pavan-kumar-ediga-7189291aa
 
