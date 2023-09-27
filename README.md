@@ -1,21 +1,18 @@
 # Check-In-Check-Out
 
-The Purpose of the Check In Check Out System application is used to know the current
-status of the student whether he/she present inside of the campus or outside of the campus. It
-is applicable to implement in institutions to maintain student's status. We can use it at the
-main entrance of the University/College to track student's status whether he or she are within
-the campus or outside the campus.
-More beneficially it can be implemented in Residential campuses to maintain student status of
-presence/absence in the campus. Whenever student wants to go out of the campus or come
-into the campus, student need to give his facial attendance at main entrance using this
-software.
-A message will be sent to registered mobile number (We use Parent mobile number for
-conveying student status to their parents) which contains the name of the student, time stamp,
-status of presence/absence of the student
+The Purpose of the Check In Check Out System application is used to know the currentstatus of the student whether he/she present inside of the campus or outside of the campus.
+
+It is applicable to implement in institutions to maintain student's status. 
+
+We can use it at the main entrance of the University/College to track student's status whether he or she are within the campus or outside the campus.
+
+More beneficially it can be implemented in Residential campuses to maintain student status of presence/absence in the campus. Whenever student wants to go out of the campus or come into the campus, student need to give his facial attendance at main entrance using this software.
+
+A message will be sent to registered mobile number (We use Parent mobile number for conveying student status to their parents) which contains the name of the student, time stamp,
+status of presence/absence of the student.
   
-Sample Snapshots :
-  ![Screenshot from 2023-07-16 22-07-35](https://github.com/Pavan19kumar19/Check-In-Check-Out/assets/64640403/e82e5229-f826-43bf-97c6-914230f093b4)
-  ![IMG_20230721_201323](https://github.com/Pavan19kumar19/Check-In-Check-Out/assets/64640403/eb955eb4-d351-4051-9cc5-7a81b6478b9c)
+# Snapshots of Check In Check Out System:
+    ![IMG_20230721_201323](https://github.com/Pavan19kumar19/Check-In-Check-Out/assets/64640403/eb955eb4-d351-4051-9cc5-7a81b6478b9c)
 ![Screenshot from 2023-07-15 10-49-29](https://github.com/Pavan19kumar19/Check-In-Check-Out/assets/64640403/810dc0b2-7227-4c08-b419-4383a290f54a)
 
 
